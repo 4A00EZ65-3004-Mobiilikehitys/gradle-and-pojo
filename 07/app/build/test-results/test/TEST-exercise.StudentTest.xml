@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.StudentTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-12-12T08:36:01" hostname="yrl6cnqc7c-mac" time="0.004">
+  <properties/>
+  <testcase name="testNameValidation" classname="exercise.StudentTest" time="0.0"/>
+  <testcase name="testDateOfBirthValidation" classname="exercise.StudentTest" time="0.0"/>
+  <testcase name="testToString" classname="exercise.StudentTest" time="0.003"/>
+  <testcase name="testValidStudentCreation" classname="exercise.StudentTest" time="0.0"/>
+  <testcase name="testEmailValidation" classname="exercise.StudentTest" time="0.0"/>
+  <testcase name="testStudentIdValidation" classname="exercise.StudentTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
