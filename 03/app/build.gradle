@@ -54,3 +54,8 @@ tasks.withType(Checkstyle) {
         }
     }
 }
+
+test {
+    // your test configuration
+    dependsOn checkstyleMain
+}
