@@ -5,12 +5,12 @@ package hello;
  *
  * @author Firstname Lastname
  */
-public final class Main {
+public final class App {
 
     /**
      * Prevent that instantiation is not possible.
      */
-    private Main() {
+    private App() {
 
     }
 
