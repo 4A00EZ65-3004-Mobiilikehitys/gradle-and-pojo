@@ -1,3 +1,10 @@
+# allow wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+.gradle/*
+build/*
+
 # Compiled class file
 *.class
 
