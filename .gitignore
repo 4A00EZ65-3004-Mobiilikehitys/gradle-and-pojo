@@ -2,8 +2,8 @@
 !gradle/wrapper/gradle-wrapper.jar
 
 # Local configuration
-.gradle/*
-build/*
+.gradle/
+build/
 
 # Compiled class file
 *.class
